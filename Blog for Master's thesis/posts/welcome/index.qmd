@@ -5,7 +5,7 @@ date: "2026-05-30"
 categories: [introduction, stochastic-filtering, thesis]
 ---
 
-This blog will document the ongoing progress of my Master's thesis, beginning with the background material I am using to prepare for the project. The first few posts will focus on stochastic filtering, with *Fundamentals of Stochastic Filtering* as the main theoretical starting point and *An Introduction to Sequential Monte Carlo* as a complement for the computational methods that will be explored alongside the theory.
+This blog will document the ongoing progress of my Master's thesis, beginning with the background material I am using to prepare for the project. The first few posts will focus on stochastic filtering, with *Fundamentals of Stochastic Filtering* [@bain-crisan-2009] as the main theoretical starting point and *An Introduction to Sequential Monte Carlo* [@chopin-papaspiliopoulos-2020] as a complement for the computational methods that will be explored alongside the theory.
 
 The early stage of the thesis is about building the right foundation: reviewing key ideas, connecting them to computational practice, and gradually moving toward more concrete questions related to the thesis itself. Later posts will therefore become more specific, following both my understanding of the subject and the actual development of the MSc thesis.
 

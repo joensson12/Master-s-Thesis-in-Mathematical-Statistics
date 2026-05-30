@@ -1,6 +1,8 @@
 project:
   type: website
 
+bibliography: references.bib
+
 website:
   description: "A blog documenting the progress of my Master's thesis"
   site-url: https://joensson12.github.io/Master-s-Thesis-in-Mathematical-Statistics/
@@ -18,5 +20,4 @@ format:
       - cosmo
       - brand
     css: styles.css
-
 
