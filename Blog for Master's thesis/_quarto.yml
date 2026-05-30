@@ -2,14 +2,14 @@ project:
   type: website
 
 website:
-  description: "A blog built with Quarto"
-  site-url: https://your-website-url.example.com # you must change this appropriately for RSS feeds to work properly
+  description: "A blog documenting the progress of my Master's thesis"
+  site-url: https://joensson12.github.io/Master-s-Thesis-in-Mathematical-Statistics/
   title: "Blog for Master's thesis"
   navbar:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/
+        href: https://github.com/joensson12/Master-s-Thesis-in-Mathematical-Statistics
       - icon: bluesky
         href: https://bsky.app/
 format:
@@ -18,6 +18,5 @@ format:
       - cosmo
       - brand
     css: styles.css
-
 
 
