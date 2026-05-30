@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss  xmlns:atom="http://www.w3.org/2005/Atom" 
+      xmlns:media="http://search.yahoo.com/mrss/" 
+      xmlns:content="http://purl.org/rss/1.0/modules/content/" 
+      xmlns:dc="http://purl.org/dc/elements/1.1/" 
+      version="2.0">
+<channel>
+<title>Blog for Master&#39;s thesis</title>
+<link>https://joensson12.github.io/Master-s-Thesis-in-Mathematical-Statistics/</link>
+<atom:link href="https://joensson12.github.io/Master-s-Thesis-in-Mathematical-Statistics/index.xml" rel="self" type="application/rss+xml"/>
+<description>A blog documenting the progress of my Master&#39;s thesis</description>
+<generator>quarto-1.9.38</generator>
+<lastBuildDate>Sat, 30 May 2026 07:00:00 GMT</lastBuildDate>
+<item>
+  <title>Introducing This Master’s Thesis Blog</title>
+  <dc:creator>Johan </dc:creator>
+  <link>https://joensson12.github.io/Master-s-Thesis-in-Mathematical-Statistics/posts/welcome/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This blog will document the ongoing progress of my Master’s thesis, beginning with the background material I am using to prepare for the project. The first posts will focus on stochastic filtering, with <em>Fundamentals of Stochastic Filtering</em> as the main theoretical starting point and <em>An Introduction to Sequential Monte Carlo</em> as a complement for the computational methods that will be explored alongside the theory.</p>
+<p>The early stage of the thesis is about building the right foundation: reviewing key ideas, connecting them to computational practice, and gradually moving toward more concrete questions related to the thesis itself. Later posts will therefore become more specific, following both my understanding of the subject and the actual development of the MSc thesis.</p>
+<p>I am preparing this thesis as part of my Master of Science in Engineering degree in <a href="https://www.lu.se/studera/civilingenjorsutbildning-i-risk-sakerhet-och-krishantering-TARSK">Risk, Safety and Crisis Management at Lund University</a>. During my studies, I have chosen to take additional courses mainly in mathematical statistics, both at the engineering faculty and the faculty of science. These courses shape the way I approach the thesis: with an interest in probability theory, stochastic processes, mathematical modelling, and computational methods.</p>
+<p>I also spent a year at UCSD, where I completed graduate-level coursework connected to probability theory, an independent study course on stochastic differential equations, and a graduate course in computational stochastic methods, including applied work with SDEs. Some of the perspectives I bring into the thesis also come from other courses, including reinforcement learning and topology. These subjects will not all be central in the same way, but they influence the background from which I approach stochastic filtering and simulation.</p>
+<p>The first posts may assume some familiarity with probability theory, stochastic processes, and numerical methods. At the same time, part of the purpose of this blog is to make the preparation visible. When I need to refresh or rebuild a theoretical idea, I will go back and work through the necessary parts carefully. Alongside the theoretical posts, I also expect to write about implementations, experiments, and computational examples, so much of the blog should still be approachable for readers with a basic background in probability.</p>
+<p>The research material used while preparing the thesis is treated as reference material. The blog will instead focus on my own explanations, notes, implementation work, and progress as the thesis develops.</p>
+<p>Useful links:</p>
+<ul>
+<li><a href="https://catalog.ucsd.edu/courses/MATH.html">UCSD mathematics course catalog</a></li>
+<li><a href="https://github.com/joensson12?tab=repositories">My GitHub repositories</a></li>
+</ul>
+
+
+
+ ]]></description>
+  <category>introduction</category>
+  <category>stochastic-filtering</category>
+  <category>thesis</category>
+  <guid>https://joensson12.github.io/Master-s-Thesis-in-Mathematical-Statistics/posts/welcome/</guid>
+  <pubDate>Sat, 30 May 2026 07:00:00 GMT</pubDate>
+</item>
+<item>
+  <title>Post With Code</title>
+  <dc:creator>Harlow Malloc</dc:creator>
+  <link>https://joensson12.github.io/Master-s-Thesis-in-Mathematical-Statistics/posts/post-with-code/</link>
+  <description><![CDATA[ 
+
+
+
+
+
+<p>This is a post with executable code.</p>
+
+
+
+ ]]></description>
+  <category>news</category>
+  <category>code</category>
+  <category>analysis</category>
+  <guid>https://joensson12.github.io/Master-s-Thesis-in-Mathematical-Statistics/posts/post-with-code/</guid>
+  <pubDate>Fri, 29 May 2026 07:00:00 GMT</pubDate>
+  <media:content url="https://joensson12.github.io/Master-s-Thesis-in-Mathematical-Statistics/posts/post-with-code/image.jpg" medium="image" type="image/jpeg"/>
+</item>
+</channel>
+</rss>
