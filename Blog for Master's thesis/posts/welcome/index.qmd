@@ -11,13 +11,16 @@ The early stage of the thesis is about building the right foundation: reviewing 
 
 This blog is part my Master's thesis for my Master of Science in Engineering degree in [Risk, Safety and Crisis Management at Lund University](https://www.lu.se/studera/civilingenjorsutbildning-i-risk-sakerhet-och-krishantering-TARSK). During my studies, I chose to take extra courses mainly in mathematical statistics, both at the engineering faculty and the faculty of science. These courses shape the way I approach the thesis, especially through probability theory, stochastic processes, mathematical modelling, and computational methods.
 
-I also spent a year at UCSD, where I completed the course sequence for graduate students pursuing probability theory, an independent study course on stochastic differential equations, and a graduate course in computational stochastics, MATH 214, with a focus on applied aspects of SDEs. I have also taken other relevant courses that may influence the approaches used in the thesis, including reinforcement learning and topology. These subjects will not all be central in the same way, but they form part of the background from which I approach stochastic filtering and simulation.
+I also spent a year at UCSD, where I completed the course sequence for graduate students pursuing probability theory, an independent study course on stochastic differential equations, and a graduate course in computational stochastics, MATH 214, with a focus on applied aspects of SDEs. 
 
-The first posts may assume some familiarity with probability theory, stochastic processes, and numerical methods. At the same time, part of the purpose of this blog is to make the preparation visible. When I need to refresh or rebuild a theoretical idea, I will go back and work through the necessary parts carefully. Alongside the theoretical posts, I also expect to write about implementations, experiments, and computational examples, so much of the blog should still be approachable for readers with a basic background in probability.
+The first posts may assume some familiarity with measure-theoretic probability theory, stochastic processes, and the basics of Monte Carlo simulations. At the same time, part of the purpose of this blog is to make the preparation visible. When I need to refresh or rebuild a theoretical idea, I will go back and work through the necessary parts carefully. Alongside the theoretical posts, I also expect to write about implementations, experiments, and computational examples, so much of the blog should still be approachable for readers with a basic background in probability.
 
-The research material used while preparing the thesis is treated as reference material. The blog will instead focus on my own explanations, notes, implementation work, and progress as the thesis develops.
+Readers who want a sense of how I usually approach computational and mathematical problems can also look through some of my previous work on GitHub:
 
-Useful links:
+[My GitHub repositories](https://github.com/joensson12?tab=repositories)
 
-- [UCSD mathematics course catalog](https://catalog.ucsd.edu/courses/MATH.html)
-- [My GitHub repositories](https://github.com/joensson12?tab=repositories)
+A particularly relevant example is my exploration of computational methods for simulating SDEs in the MATH 214 course:
+
+[Project MATH 214](https://github.com/joensson12/Project-MATH-214)
+
+I look forward to using this blog to explore new areas of probability theory and its applications as the thesis develops!
