@@ -1,19 +1,14 @@
 ---
 title: "About"
-image: profile.jpg
-about:
-  template: jolla
-  links:
-    - icon: bluesky
-      text: Bluesky
-      href: https://bsky.app/
+image: profilepicturecut.jpg
+about: My name is Johan and I am interested in probability theory and its computational implementation, especially as tools for understanding and solving real-world problems.
+template: jolla
+links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/johan-j%C3%B6nsson-2002-engineer/
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/joensson12
 
----
-
-About this blog
+-
