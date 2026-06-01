@@ -1,9 +1,9 @@
 ---
 title: "About"
 image: profilepicturecut.jpg
-about: My name is Johan and I am interested in probability theory and its computational implementation, especially as tools for understanding and solving real-world problems.
-template: jolla
-links:
+about:
+  template: jolla
+  links:
     - icon: linkedin
       text: LinkedIn
       href: https://www.linkedin.com/in/johan-j%C3%B6nsson-2002-engineer/
@@ -11,4 +11,6 @@ links:
       text: Github
       href: https://github.com/joensson12
 
--
+---
+
+My name is Johan, and I am interested in probability theory and its computational implementation, especially as tools for understanding and solving real-world problems.
